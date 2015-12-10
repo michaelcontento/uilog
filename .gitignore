@@ -1,0 +1,9 @@
+# Nodejs
+/node_modules/
+/npm-debug.log
+
+# created by 'make build'
+/build/
+
+# created by 'npm pack'
+/*.tgz

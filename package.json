@@ -1,0 +1,47 @@
+{
+  "name": "uilog",
+  "version": "1.0.0",
+  "description": "Logging interface for somewhat pretty CLI apps",
+  "scripts": {
+    "test": "make lint build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelcontento/uilog.git"
+  },
+  "author": "Michael Contento <michaelcontento@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelcontento/uilog/issues",
+    "email": "michaelcontento@gmail.com"
+  },
+  "homepage": "https://github.com/michaelcontento/uilog",
+  "keywords": [
+    "logging",
+    "ui",
+    "interface",
+    "spinner"
+  ],
+  "files": [
+    "/build/"
+  ],
+  "babel": {
+    "presets": [
+      "michaelcontento/4.0"
+    ]
+  },
+  "eslintConfig": {
+    "extends": "michaelcontento"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.3.15",
+    "babel-preset-michaelcontento": "^1.2.0",
+    "eslint": "^1.10.3",
+    "eslint-config-michaelcontento": "^1.1.1",
+    "eslint-plugin-mocha-only": "0.0.3",
+    "release-it": "^2.3.1"
+  },
+  "dependencies": {
+    "ansi": "^0.3.0"
+  }
+}
