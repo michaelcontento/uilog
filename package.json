@@ -2,6 +2,7 @@
   "name": "uilog",
   "version": "1.0.0",
   "description": "Logging interface for somewhat pretty CLI apps",
+  "main": "build/index.js",
   "scripts": {
     "test": "make lint build"
   },
