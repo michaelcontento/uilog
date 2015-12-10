@@ -1,6 +1,6 @@
 {
   "name": "uilog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Logging interface for somewhat pretty CLI apps",
   "main": "build/index.js",
   "scripts": {
