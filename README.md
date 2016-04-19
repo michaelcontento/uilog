@@ -1,6 +1,6 @@
 # [uilog][]
 
-[![build](https://travis-ci.org/michaelcontento/uilog.svg)](https://travis-ci.org/michaelcontento/uilog)
+[![build](https://travis-ci.org/michaelcontento/uilog.svg?branch=master)](https://travis-ci.org/michaelcontento/uilog)
 [![dependencies](https://david-dm.org/michaelcontento/uilog.svg)](https://david-dm.org/michaelcontento/uilog)
 [![devDependencies](https://david-dm.org/michaelcontento/uilog/dev-status.svg)](https://david-dm.org/michaelcontento/uilog#info=devDependencies)
 
